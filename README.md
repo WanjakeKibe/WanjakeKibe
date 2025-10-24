@@ -1,6 +1,6 @@
 # 👋 Hi, I'm WanjakeKibe, call me John
 
-I'm a passionate developer with a background in IT support and a strong interest in web development, tech innovation, and problem-solving through code.
+I'm a passionate developer with a background in IT support and a strong interest in web development, Software Development, tech innovation, and problem-solving through code.
 
 ### 🚀 What I'm Working On
 - 📚 Completing the **Full-Stack JavaScript** course at [The Odin Project](https://www.theodinproject.com/)
