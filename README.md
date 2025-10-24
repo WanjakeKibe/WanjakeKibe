@@ -4,11 +4,13 @@ I'm a passionate developer with a background in IT support and a strong interest
 
 ### 🚀 What I'm Working On
 - 📚 Completing the **Full-Stack JavaScript** course at [The Odin Project](https://www.theodinproject.com/)
+-  📚 Currently enrolled in ALX Backed Web Development course
 - 🔧 Building a RESTful API as part of my portfolio project
 - 🧠 Continuously learning new tools and frameworks to expand my dev toolkit
 
+
 ### 🌱 What I'm Interested In
-- Web development (HTML, CSS, JavaScript)
+- Web development (HTML, CSS, JavaScript, PHP, Python, Django)
 - RESTful APIs and backend services
 - Open-source projects & community collaboration
 - Tech innovation in Africa and beyond 🌍
@@ -21,6 +23,7 @@ I'm a passionate developer with a background in IT support and a strong interest
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 #### **Frontend Frameworks & Libraries**
@@ -49,6 +52,8 @@ I'm a passionate developer with a background in IT support and a strong interest
 
 #### **Learning & Exploring**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=next-dot-js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=ffffff&logoColor=3178C6&logo=typescript)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
@@ -59,6 +64,7 @@ I'm a passionate developer with a background in IT support and a strong interest
 ### 📫 Let's Connect!
 I'm open to collaborations, tech discussions, and new opportunities.  
 Feel free to reach out or connect with me here:
+-  LinkedIn : https://www.linkedin.com/in/john-wanjake-548834351/
 - 💻 [Portfolio](#) (Coming soon!)
 - ✉️ Email:mail to wanjakejohn63@gmail.com
 
