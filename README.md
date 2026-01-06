@@ -58,9 +58,11 @@ I'm a passionate developer with a background in IT support and a strong interest
 
 
 ### 📌 Goals for 2025
-- ✅ Build and deploy at least 3 full-stack projects
 - ✅ Contribute to open-source projects
 
+### What I achieved in 2025 
+- Build two backend project deployed one
+  
 ### 📫 Let's Connect!
 I'm open to collaborations, tech discussions, and new opportunities.  
 Feel free to reach out or connect with me here:
